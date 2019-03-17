@@ -1,0 +1,25 @@
+{
+  "name": "sorrowful",
+  "version": "1.0.0",
+  "description": "低配版promise",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx promises-aplus-tests index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tauleos/Promise.git"
+  },
+  "keywords": [
+    "promise"
+  ],
+  "author": "mav7",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Tauleos/Promise/issues"
+  },
+  "homepage": "https://github.com/Tauleos/Promise#readme",
+  "devDependencies": {
+    "promises-aplus-tests": "^2.1.2"
+  }
+}
